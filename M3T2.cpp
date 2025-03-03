@@ -1,7 +1,7 @@
 //Hunter Pike
 //CSC134
 //3-2-2025
-//M3T1
+//M3T2
 
 
 #include <iostream>
@@ -33,5 +33,17 @@ int main() {
     cout << "The area of the first rectangle is: " << area1 << endl;
     cout << "The area of the second rectangle is: " << area2 << endl;
 
-    return 0;
-}
+
+        // Compare the areas and display the result
+        if (area1 > area2) {
+            cout << "The first rectangle has the larger area." << endl;
+        }
+        else if (area1 < area2) {
+            cout << "The second rectangle has the larger area." << endl;
+        }
+        else {
+            cout << "Both rectangles have the same area." << endl;
+        }
+    
+        return 0;
+    }
