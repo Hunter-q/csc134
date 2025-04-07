@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 // CSC 134
-// M5T1 - Intro to Functions
-// Norrisa
-// 3/18/24
+// M5T1
+// Hunter Pike
+// 4-6-25
 
 
 void say_hello();
