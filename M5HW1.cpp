@@ -1,3 +1,11 @@
+// Hunter Pike
+// CSC134
+// M5HW1
+
+
+
+
+
 #include <iostream>
 #include <iomanip>
 #include <string>
